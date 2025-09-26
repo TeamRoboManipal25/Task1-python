@@ -49,4 +49,4 @@ YourRepoName/
 
 ---
 
-📌 **Deadline:** Next **Friday, 11:59 pm**
+📌 **Deadline:**  **3rd october, 11:59 pm**
