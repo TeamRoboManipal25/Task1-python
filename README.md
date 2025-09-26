@@ -46,6 +46,7 @@ YourRepoName/
 
 * [Official Python Documentation](https://docs.python.org/3/)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+* [Python Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&feature=shared)
 
 ---
 
